@@ -3,6 +3,9 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+PersonnelManagement/appsettings.json
+PersonnelManagement/firebase-config.json
+
 # dotenv files
 .env
 
